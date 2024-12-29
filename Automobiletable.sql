@@ -1,0 +1,7 @@
+SELECT TOP (1000) [id]
+      ,[carprice]
+      ,[customerType]
+      ,[discountedPrice]
+      ,[totalInterest]
+      ,[datesubmitted]
+  FROM [loanaccounts].[dbo].[automobile]
